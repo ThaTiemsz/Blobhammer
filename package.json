@@ -1,0 +1,22 @@
+{
+    "name": "blobhammer",
+    "version": "1.0.0",
+    "description": "Simple bot to sync bans across Blob Emoji servers.",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThaTiemsz/Blobhammer.git"
+    },
+    "author": "Tiemen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ThaTiemsz/Blobhammer/issues"
+    },
+    "homepage": "https://github.com/ThaTiemsz/Blobhammer#readme",
+    "dependencies": {
+        "discord.js": "^11.2.1"
+    }
+}
